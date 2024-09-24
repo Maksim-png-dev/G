@@ -11,6 +11,6 @@ end)                                                                            
 game:GetService("ReplicatedStorage").Remotes.Yuji:FireServer(unpack(args))
 
     print("Clicked")
-end) Section:NewButton("ButtonText", "ButtonInfo", function() loadstring(game:HttpGet("https://rawscripts.net/raw/OP-Battlegrounds-Battleground-10509"))()
+end) Section:NewButton("RandomNGL", "ButtonInfo", function() loadstring(game:HttpGet("https://rawscripts.net/raw/OP-Battlegrounds-Battleground-10509"))()
     print("Clicked")
 end)
